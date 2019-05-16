@@ -1,0 +1,21 @@
+{
+  "name": "tb03parser",
+  "version": "0.0.1",
+  "description": "Parser for Roland's TB-03 BACKUP files.",
+  "main": "tb03parser.js",
+  "scripts": {
+    "test": "tb03parser.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git cpapa"
+  },
+  "keywords": [
+    "parser",
+    "tb03",
+    "backup",
+    "roland"
+  ],
+  "author": "Zingus J. Rinkle <zingus@gmail.com> (http://antisocial1.com)",
+  "license": "GPL-3.0-or-later"
+}
